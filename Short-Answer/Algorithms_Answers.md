@@ -8,12 +8,14 @@ a) This is:
     
     Therefore this is is O(n)
 
-b) This is:
+
+b) This is: 
     a. a nested loop(for i, while j) 
     b. all else are constants 
     c. dependent on n
 
     Therefore this is O(n^2)
+
 
 c) This is:
     a. Worst case scenario (if not ==0) means you Will need to go through each element 

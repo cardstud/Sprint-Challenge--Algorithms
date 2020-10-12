@@ -10,7 +10,7 @@ def count_th(word):
     if len(word) < 2:
         return 0
 
-    # search for 'th' im the string
+    # search for 'th' in the string
     if word[:2] == 'th':
         th = th + 1
 
