@@ -14,7 +14,7 @@ b) This is:
     b. all else are constants 
     c. dependent on n
 
-    Therefore this is O(n^2)
+    Therefore this is O(n^2)  (nlogn)
 
 
 c) This is:

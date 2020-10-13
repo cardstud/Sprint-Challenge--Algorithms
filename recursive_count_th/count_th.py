@@ -19,4 +19,4 @@ def count_th(word):
     return th
 
 # test it
-print("The number of times 'th' occurs in your string is: ", count_th("welcomethtomythhousethopenupthechampagne,popthIt'smyhouse,comeon,turnitupth"))
+print("The number of times 'th' occurs in your string is: ", count_th("welcomethtomythhousethopethnupthechampagne,popthIt'smyhouse,comeon,turnitupth"))
